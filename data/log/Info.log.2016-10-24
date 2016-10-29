@@ -1,0 +1,1207 @@
+2016-10-24 10:37:11 [main]-[INFO] 启动了Android APP
+2016-10-24 10:37:18 [main]-[INFO] 退出了浏览器
+2016-10-24 10:37:38 [main]-[INFO] 启动了Android APP
+2016-10-24 14:55:16 [main]-[INFO] 启动了Android APP
+2016-10-24 14:55:16 [main]-[INFO] 获取网络状态
+2016-10-24 17:07:45 [main]-[INFO] 启动了Android APP
+2016-10-24 17:07:45 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:07:49 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:07:49 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:07:50 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:07:50 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:07:50 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:07:51 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:07:51 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:07:51 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:07:51 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:09:02 [main]-[INFO] 启动了Android APP
+2016-10-24 17:09:02 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:09:06 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:09:06 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:09:06 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:09:06 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:09:06 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:09:08 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:09:08 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:09:08 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:09:08 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:09:08 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:09:09 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:09:09 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:09:09 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:09:09 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:09:09 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:09:10 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:09:10 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:09:10 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:09:10 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:09:10 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:09:11 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:09:11 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:09:12 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:09:12 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:09:12 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:09:13 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:09:13 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:09:13 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:09:13 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:09:13 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:09:14 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:09:14 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:09:14 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:09:14 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:09:14 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:09:15 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:09:15 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:09:16 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:09:16 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:09:16 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:09:17 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:09:17 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:09:17 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:09:17 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:09:17 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:09:18 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:09:18 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:09:18 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:09:18 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:09:18 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:09:19 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:09:19 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:09:20 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:09:20 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:09:20 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:09:21 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:09:21 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:09:21 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:09:21 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:09:21 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:09:22 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:09:22 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:09:22 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:09:22 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:09:22 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:09:23 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:09:23 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:09:24 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:09:24 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:09:24 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:09:25 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:09:25 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:09:25 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:09:25 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:09:25 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:09:26 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:09:26 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:09:26 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:09:26 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:09:26 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:09:27 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:09:27 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:09:28 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:09:28 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:09:28 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:09:29 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:09:29 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:09:29 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:09:29 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:09:29 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:09:30 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:09:30 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:09:30 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:09:30 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:09:30 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:09:31 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:09:31 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:09:32 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:09:32 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:09:32 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:09:33 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:09:33 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:09:33 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:09:33 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:09:33 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:09:34 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:09:34 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:09:34 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:09:34 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:09:34 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:09:35 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:09:35 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:09:36 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:09:36 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:09:36 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:09:37 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:09:37 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:09:37 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:09:37 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:09:37 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:09:38 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:09:38 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:09:38 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:09:38 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:09:38 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:09:39 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:09:40 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:09:40 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:09:40 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:09:40 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:09:41 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:09:41 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:09:41 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:09:41 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:09:41 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:09:42 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:09:42 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:09:42 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:09:42 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:09:42 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:09:43 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:09:43 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:09:44 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:09:44 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:09:44 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:09:45 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:09:45 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:09:45 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:09:45 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:09:45 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:09:46 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:09:46 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:09:46 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:09:46 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:09:46 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:09:47 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:09:47 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:09:48 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:09:48 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:09:48 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:09:49 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:09:49 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:09:49 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:09:49 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:09:49 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:09:50 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:09:50 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:09:50 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:09:50 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:09:50 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:09:51 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:09:51 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:09:52 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:09:52 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:09:52 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:09:53 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:09:53 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:09:53 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:09:53 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:09:53 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:09:54 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:09:54 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:09:54 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:09:54 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:09:54 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:09:55 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:09:56 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:09:56 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:09:56 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:09:56 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:09:57 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:09:57 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:09:57 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:09:57 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:09:57 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:09:58 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:09:58 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:09:58 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:09:58 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:09:58 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:09:59 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:09:59 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:10:00 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:10:00 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:10:00 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:10:01 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:10:01 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:10:01 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:10:01 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:10:01 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:10:02 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:10:02 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:10:02 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:10:02 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:10:02 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:10:03 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:10:04 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:10:04 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:10:04 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:10:04 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:10:05 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:10:05 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:10:05 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:10:05 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:10:05 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:10:06 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:10:06 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:10:06 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:10:06 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:10:06 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:10:08 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:10:08 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:10:08 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:10:08 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:10:08 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:10:09 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:10:09 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:10:09 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:10:09 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:10:09 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:10:10 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:10:10 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:10:10 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:10:10 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:10:10 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:10:11 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:10:11 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:10:12 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:10:12 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:10:12 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:10:12 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:10:13 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:10:13 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:10:13 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:10:13 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:10:14 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:10:14 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:10:14 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:10:14 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:10:14 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:10:15 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:10:15 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:10:16 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:10:16 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:10:16 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:10:17 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:10:17 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:10:17 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:10:17 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:10:17 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:10:18 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:10:18 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:10:18 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:10:18 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:10:18 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:10:19 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:10:20 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:10:20 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:10:20 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:10:20 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:10:21 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:10:21 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:10:21 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:10:21 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:10:21 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:10:22 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:10:22 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:10:22 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:10:22 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:10:22 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:10:23 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:10:24 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:10:24 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:10:24 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:10:24 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:10:25 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:10:25 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:10:25 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:10:25 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:10:25 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:10:26 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:10:26 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:10:26 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:10:26 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:10:26 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:10:27 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:10:28 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:10:28 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:10:28 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:10:28 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:10:29 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:10:29 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:10:29 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:10:29 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:10:29 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:10:30 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:10:30 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:10:30 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:10:30 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:10:30 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:10:31 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:10:32 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:10:32 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:10:32 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:10:32 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:10:33 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:10:33 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:10:33 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:10:33 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:10:33 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:10:34 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:10:34 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:10:34 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:10:34 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:10:34 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:10:35 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:10:36 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:10:36 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:10:36 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:10:36 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:10:37 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:10:37 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:10:37 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:10:37 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:10:37 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:10:38 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:10:38 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:10:38 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:10:38 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:10:38 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:10:39 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:10:40 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:10:40 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:10:40 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:10:40 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:10:41 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:10:41 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:10:41 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:10:41 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:10:41 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:10:42 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:10:42 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:10:42 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:10:42 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:10:42 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:10:43 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:10:43 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:10:44 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:10:44 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:10:44 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:10:45 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:10:45 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:10:45 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:10:45 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:10:45 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:10:46 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:10:46 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:10:46 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:10:46 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:10:46 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:10:48 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:10:48 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:10:48 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:10:48 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:10:48 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:10:49 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:10:49 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:10:49 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:10:49 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:10:49 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:10:50 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:10:50 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:10:50 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:10:50 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:10:50 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:10:52 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:10:52 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:10:52 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:10:52 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:10:52 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:10:53 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:10:53 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:10:53 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:10:53 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:10:53 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:10:54 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:10:54 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:10:56 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:10:56 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:10:56 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:10:57 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:10:57 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:10:57 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:10:57 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:10:57 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:10:58 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:10:58 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:10:58 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:10:58 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:10:58 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:11:00 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:11:00 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:11:00 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:11:00 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:11:00 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:11:01 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:11:01 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:11:01 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:11:01 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:11:01 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:11:02 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:11:02 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:11:02 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:11:02 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:11:02 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:11:04 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:11:04 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:11:04 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:11:04 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:11:04 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:11:05 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:11:05 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:11:05 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:11:05 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:11:05 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:11:06 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:11:06 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:11:06 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:11:06 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:11:06 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:11:08 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:11:08 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:11:08 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:11:08 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:11:08 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:11:09 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:11:09 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:11:10 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:11:10 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:11:10 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:11:11 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:11:11 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:11:12 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:11:12 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:11:12 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:11:12 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:11:13 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:11:13 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:11:13 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:11:13 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:11:14 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:11:14 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:11:14 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:11:14 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:11:14 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:11:16 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:11:16 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:11:16 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:11:16 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:11:16 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:11:17 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:11:17 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:11:17 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:11:17 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:11:17 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:11:18 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:11:18 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:11:18 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:11:18 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:11:18 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:11:20 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:11:20 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:11:20 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:11:20 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:11:20 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:11:21 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:11:21 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:11:21 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:11:21 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:11:21 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:11:22 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:11:22 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:11:22 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:11:22 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:11:22 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:11:24 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:11:24 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:11:24 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:11:24 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:11:24 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:11:25 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:11:25 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:11:25 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:11:25 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:11:25 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:11:26 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:11:26 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:11:26 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:11:26 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:11:26 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:11:27 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:11:28 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:11:28 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:11:28 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:11:28 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:11:29 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:11:29 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:11:29 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:11:29 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:11:29 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:11:30 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:11:30 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:11:30 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:11:30 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:11:30 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:11:31 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:11:32 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:11:32 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:11:32 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:11:32 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:11:33 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:11:33 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:11:33 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:11:33 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:11:33 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:11:34 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:11:34 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:11:35 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:11:35 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:11:35 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:11:36 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:11:36 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:11:36 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:11:36 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:11:36 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:11:37 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:11:37 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:11:38 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:11:38 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:11:38 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:11:38 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:11:38 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:11:39 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:11:39 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:11:39 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:11:40 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:11:40 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:11:40 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:11:40 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:11:40 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:11:41 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:11:41 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:11:41 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:11:41 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:11:41 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:11:42 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:11:42 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:11:42 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:11:42 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:11:42 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:11:43 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:11:44 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:11:44 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:11:44 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:11:44 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:11:45 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:11:45 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:11:46 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:11:46 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:11:46 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:11:46 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:11:46 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:11:46 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:11:46 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:11:46 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:11:47 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:11:48 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:11:48 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:11:48 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:11:48 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:11:49 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:11:49 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:11:49 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:11:49 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:11:49 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:11:50 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:11:50 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:11:51 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:11:51 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:11:51 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:11:51 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:11:52 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:11:52 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:11:52 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:11:52 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:11:53 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:11:53 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:11:54 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:11:54 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:11:54 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:11:54 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:11:54 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:11:55 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:11:55 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:11:55 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:11:55 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:11:56 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:11:56 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:11:56 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:11:56 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:11:57 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:11:57 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:11:58 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:11:58 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:11:58 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:11:58 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:11:58 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:11:59 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:11:59 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:11:59 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:11:59 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:12:00 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:12:00 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:12:00 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:12:00 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:12:01 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:12:01 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:12:02 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:12:02 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:12:02 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:12:02 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:12:02 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:12:03 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:12:03 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:12:03 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:12:03 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:12:04 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:12:04 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:12:04 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:12:04 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:12:05 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:12:05 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:12:06 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:12:06 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:12:06 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:12:06 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:12:06 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:12:07 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:12:07 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:12:07 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:12:09 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:12:09 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:12:09 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:12:09 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:12:09 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:12:10 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:12:10 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:12:11 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:12:11 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:12:11 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:12:11 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:12:12 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:12:12 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:12:12 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:12:12 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:12:13 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:12:13 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:12:14 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:12:14 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:12:14 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:12:14 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:12:14 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:12:15 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:12:15 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:12:15 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:12:16 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:12:16 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:12:16 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:12:16 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:12:16 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:12:17 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:12:17 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:12:18 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:12:18 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:12:18 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:12:18 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:12:18 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:12:19 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:12:19 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:12:19 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:12:20 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:12:20 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:12:21 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:12:21 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:12:21 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:12:21 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:12:21 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:12:22 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:12:22 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:12:22 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:12:22 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:12:22 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:12:23 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:12:23 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:12:23 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:12:24 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:12:24 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:12:25 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:12:25 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:12:25 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:12:25 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:12:25 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:12:26 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:12:26 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:12:26 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:12:26 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:12:27 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:12:27 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:12:27 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:12:27 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:12:28 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:12:28 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:12:29 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:12:29 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:12:29 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:12:29 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:12:29 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:12:30 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:12:30 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:12:30 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:12:30 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:12:30 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:12:31 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:12:31 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:12:31 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:12:31 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:12:32 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:12:32 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:12:32 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:12:32 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:12:33 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:12:33 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:12:34 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:12:34 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:12:34 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:12:34 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:12:35 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:12:35 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:12:35 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:12:35 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:12:36 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:12:36 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:12:37 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:12:37 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:12:37 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:12:37 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:12:37 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:12:38 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:12:38 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:12:38 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:12:38 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:12:39 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:12:39 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:12:39 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:12:39 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:12:39 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。结果是:true
+2016-10-24 17:12:40 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')]]。
+2016-10-24 17:12:41 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'0')]]
+2016-10-24 17:12:41 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:12:41 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:12:41 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:12:41 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:12:42 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:12:42 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:12:42 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:14:06 [main]-[INFO] 启动了Android APP
+2016-10-24 17:14:06 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:14:57 [main]-[INFO] 启动了Android APP
+2016-10-24 17:14:57 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:15:01 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:15:01 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:15:01 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:15:01 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:15:01 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:15:32 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'0')][2]]。结果是:false
+2016-10-24 17:15:32 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'0')][2]]。
+2016-10-24 17:15:32 [main]-[ERROR] 点击元素失败。定位方式[Locator.XPATH://android.widget.ImageView[contains(@index,'0')][2]]
+java.lang.NullPointerException
+	at com.wsc.framework.control.AppEmulator.click(AppEmulator.java:442)
+	at com.wsc.framework.control.BaseControl.click_(BaseControl.java:223)
+	at com.wsc.framework.control.Link.click(Link.java:44)
+	at zhuanzhuanHomePage.homepage.actClickCycle(homepage.java:32)
+	at zhuanzhuanHomePage.homepage.main(homepage.java:43)
+2016-10-24 17:45:16 [main]-[INFO] 启动了Android APP
+2016-10-24 17:45:16 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:45:20 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:45:20 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:45:21 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:45:21 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:45:21 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:45:22 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 17:45:22 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 17:45:22 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 17:45:22 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:45:23 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 17:45:23 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 17:48:02 [main]-[INFO] 启动了Android APP
+2016-10-24 17:48:02 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:48:06 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:48:06 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:48:06 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:48:06 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:48:06 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:48:07 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 17:48:08 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 17:48:08 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 17:48:08 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:48:08 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:48:09 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:48:09 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:48:09 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:48:09 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:48:09 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:48:10 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 17:48:10 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 17:48:10 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 17:48:10 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:48:10 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:48:11 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:48:11 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:48:11 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:48:11 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:48:11 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:48:12 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 17:48:12 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 17:48:12 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 17:48:12 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:48:12 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:48:13 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:48:14 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:48:14 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:48:14 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:48:14 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:48:15 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 17:48:15 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 17:48:15 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 17:48:15 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:48:15 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:48:16 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:48:16 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:48:17 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:48:17 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:48:17 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:48:18 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 17:48:18 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 17:48:18 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 17:48:18 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:48:18 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:48:19 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:48:19 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:48:20 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:48:20 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:48:20 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:48:20 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 17:48:20 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 17:48:21 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 17:48:21 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:48:21 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:48:22 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:48:22 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:48:22 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:48:22 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:48:22 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:48:23 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 17:48:23 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 17:48:23 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 17:48:23 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:48:23 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:48:24 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:48:24 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:48:25 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:48:25 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:48:25 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:48:25 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 17:48:26 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 17:48:27 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 17:48:27 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:48:27 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:48:27 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:48:27 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:48:28 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:48:28 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:48:28 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:48:28 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 17:48:28 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 17:48:29 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 17:48:29 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:48:29 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:48:29 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:48:30 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:48:31 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:48:31 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:48:31 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:48:31 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 17:48:31 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 17:48:32 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 17:48:32 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:48:32 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:48:32 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:48:32 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:48:33 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:48:33 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:48:33 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:48:33 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 17:48:33 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 17:48:34 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 17:48:34 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:48:34 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:48:35 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:48:35 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:48:36 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:48:36 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:48:36 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:48:36 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 17:48:36 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 17:48:37 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 17:48:37 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:48:37 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:48:37 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:48:38 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:48:39 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:48:39 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:48:39 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:48:39 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 17:48:39 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 17:48:40 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 17:48:40 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:48:40 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:48:40 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:48:40 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:48:41 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:48:41 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:48:41 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:48:41 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 17:48:42 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 17:48:43 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 17:48:43 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:48:43 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:48:43 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:48:43 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:48:44 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:48:44 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:48:44 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:48:44 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 17:48:44 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 17:48:45 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 17:48:45 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:48:45 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:48:45 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:48:46 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:48:47 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:48:47 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:48:47 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:48:47 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 17:48:47 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 17:48:48 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 17:48:48 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:48:48 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:48:48 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:48:48 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:48:49 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:48:49 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:48:49 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:48:50 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 17:48:50 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 17:48:51 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 17:48:51 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:48:51 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:48:51 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:48:51 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:48:52 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:48:52 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:48:52 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:48:52 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 17:48:52 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 17:48:53 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 17:48:53 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:48:53 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:48:53 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:48:54 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:48:55 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:48:55 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:48:55 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:48:55 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 17:48:55 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 17:48:56 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 17:48:56 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:48:56 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:48:56 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:48:56 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:48:57 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:48:57 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:48:57 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:48:57 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 17:48:58 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 17:48:59 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 17:48:59 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:48:59 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 17:49:00 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 17:49:00 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 17:49:00 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 17:49:00 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 17:49:00 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 17:49:01 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 17:49:01 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 17:49:02 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 17:49:02 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 17:49:02 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 18:26:06 [main]-[INFO] 启动了Android APP
+2016-10-24 18:26:07 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 18:26:11 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 18:26:11 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 18:26:11 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 18:26:11 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 18:26:11 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 18:26:12 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 18:26:12 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 18:26:13 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 18:26:13 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 18:26:14 [main]-[INFO] 元素是否存在[By.className: android.widget.TextView]。结果是:true
+2016-10-24 18:26:14 [main]-[INFO] 查找元素[By.className: android.widget.TextView]。获取所有的textview
+2016-10-24 18:26:14 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 18:26:14 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 18:26:14 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 18:26:15 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 18:26:15 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 18:26:15 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 18:26:15 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 18:26:15 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 18:26:16 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 18:26:16 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 18:26:17 [main]-[INFO] 元素是否存在[By.className: android.widget.TextView]。结果是:true
+2016-10-24 18:26:18 [main]-[INFO] 查找元素[By.className: android.widget.TextView]。获取所有的textview
+2016-10-24 18:26:18 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 18:26:18 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 18:26:18 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 18:26:18 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 18:26:18 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 18:26:18 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 18:26:19 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 18:26:19 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 18:26:19 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 18:26:19 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 18:26:20 [main]-[INFO] 元素是否存在[By.className: android.widget.TextView]。结果是:true
+2016-10-24 18:26:21 [main]-[INFO] 查找元素[By.className: android.widget.TextView]。获取所有的textview
+2016-10-24 18:26:22 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 18:26:22 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 18:26:22 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 18:26:22 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 18:26:22 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 18:26:22 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 18:26:23 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 18:26:23 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 18:26:23 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 18:26:23 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 18:26:24 [main]-[INFO] 元素是否存在[By.className: android.widget.TextView]。结果是:true
+2016-10-24 18:26:24 [main]-[INFO] 查找元素[By.className: android.widget.TextView]。获取所有的textview
+2016-10-24 18:26:25 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 18:26:25 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 18:26:25 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 18:26:26 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 18:26:26 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 18:26:26 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 18:26:26 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 18:26:26 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 18:26:27 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 18:26:27 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 18:26:28 [main]-[INFO] 元素是否存在[By.className: android.widget.TextView]。结果是:true
+2016-10-24 18:26:28 [main]-[INFO] 查找元素[By.className: android.widget.TextView]。获取所有的textview
+2016-10-24 18:26:28 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 18:26:28 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 18:26:28 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 18:26:29 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 18:26:29 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 18:26:29 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 18:26:30 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 18:26:30 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 18:26:30 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 18:26:30 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 18:26:31 [main]-[INFO] 元素是否存在[By.className: android.widget.TextView]。结果是:true
+2016-10-24 18:26:31 [main]-[INFO] 查找元素[By.className: android.widget.TextView]。获取所有的textview
+2016-10-24 18:26:31 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 18:26:32 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 18:26:32 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 18:26:32 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 18:26:32 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 18:26:32 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 18:26:33 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 18:26:33 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 18:26:34 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 18:26:34 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 18:26:35 [main]-[INFO] 元素是否存在[By.className: android.widget.TextView]。结果是:true
+2016-10-24 18:26:35 [main]-[INFO] 查找元素[By.className: android.widget.TextView]。获取所有的textview
+2016-10-24 18:26:35 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 18:26:35 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 18:26:35 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 18:26:36 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 18:26:36 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 18:26:36 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 18:26:36 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 18:26:37 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 18:26:37 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 18:26:37 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 18:26:38 [main]-[INFO] 元素是否存在[By.className: android.widget.TextView]。结果是:true
+2016-10-24 18:26:38 [main]-[INFO] 查找元素[By.className: android.widget.TextView]。获取所有的textview
+2016-10-24 18:26:38 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 18:26:39 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 18:26:39 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 18:26:39 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 18:26:39 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 18:26:39 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 18:26:40 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 18:26:40 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 18:26:40 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 18:26:40 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 18:26:41 [main]-[INFO] 元素是否存在[By.className: android.widget.TextView]。结果是:true
+2016-10-24 18:26:42 [main]-[INFO] 查找元素[By.className: android.widget.TextView]。获取所有的textview
+2016-10-24 18:26:42 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 18:26:42 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 18:26:42 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 18:26:42 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 18:26:42 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 18:26:42 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 18:26:43 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 18:26:43 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 18:26:43 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 18:26:43 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 18:26:44 [main]-[INFO] 元素是否存在[By.className: android.widget.TextView]。结果是:true
+2016-10-24 18:26:44 [main]-[INFO] 查找元素[By.className: android.widget.TextView]。获取所有的textview
+2016-10-24 18:26:45 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 18:26:45 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 18:26:45 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 18:26:46 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 18:26:46 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 18:26:46 [main]-[INFO] [开始：homepage.message#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.message】。
+2016-10-24 18:26:47 [main]-[INFO] 元素是否存在[By.id: com.wuba.zhuanzhuan:id/a4w]。结果是:true
+2016-10-24 18:26:47 [main]-[INFO] 查找到元素[By.id: com.wuba.zhuanzhuan:id/a4w]。
+2016-10-24 18:26:47 [main]-[INFO] 点击元素。[Locator.ID:com.wuba.zhuanzhuan:id/a4w]
+2016-10-24 18:26:47 [main]-[INFO] [结束：homepage.message#click]点击。
+2016-10-24 18:26:48 [main]-[INFO] 元素是否存在[By.className: android.widget.TextView]。结果是:true
+2016-10-24 18:26:48 [main]-[INFO] 查找元素[By.className: android.widget.TextView]。获取所有的textview
+2016-10-24 18:26:48 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 18:26:48 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 18:26:48 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 18:27:31 [main]-[INFO] 启动了Android APP
+2016-10-24 18:27:31 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 18:27:36 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 18:27:36 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 18:27:36 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 18:27:36 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 18:27:38 [main]-[INFO] 元素是否存在[By.className: android.widget.TextView]。结果是:true
+2016-10-24 18:27:39 [main]-[INFO] 查找元素[By.className: android.widget.TextView]。获取所有的textview
+2016-10-24 18:27:40 [main]-[INFO] [开始：homepage.wo#click]点击。控件【public com.wsc.framework.control.Link zhuanzhuanHomePage.homepage.wo】。
+2016-10-24 18:27:40 [main]-[INFO] 元素是否存在[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。结果是:true
+2016-10-24 18:27:40 [main]-[INFO] 查找到元素[By.xpath: //android.widget.ImageView[contains(@index,'4')]]。
+2016-10-24 18:27:41 [main]-[INFO] 点击元素。[Locator.XPATH://android.widget.ImageView[contains(@index,'4')]]
+2016-10-24 18:27:41 [main]-[INFO] [结束：homepage.wo#click]点击。
+2016-10-24 18:27:42 [main]-[INFO] 元素是否存在[By.className: android.widget.TextView]。结果是:true
+2016-10-24 18:27:42 [main]-[INFO] 查找元素[By.className: android.widget.TextView]。获取所有的textview

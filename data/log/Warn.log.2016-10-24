@@ -1,0 +1,7 @@
+2016-10-24 17:15:32 [main]-[ERROR] 点击元素失败。定位方式[Locator.XPATH://android.widget.ImageView[contains(@index,'0')][2]]
+java.lang.NullPointerException
+	at com.wsc.framework.control.AppEmulator.click(AppEmulator.java:442)
+	at com.wsc.framework.control.BaseControl.click_(BaseControl.java:223)
+	at com.wsc.framework.control.Link.click(Link.java:44)
+	at zhuanzhuanHomePage.homepage.actClickCycle(homepage.java:32)
+	at zhuanzhuanHomePage.homepage.main(homepage.java:43)

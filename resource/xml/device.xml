@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<devices>
+	<device devicename="Xiaomi Mi-4c"  platformName="android" udid="a8aad378" 
+	    capabilitytypeversion="5.1.1" huburl="http://127.0.0.1:4723/wd/hub"></device>
+	<device devicename="moni1"  platformName="android" udid="127.0.0.1:52001" 
+	    capabilitytypeversion="5.1.1" huburl="http://127.0.0.1:4444/wd/hub"></device>
+    
+</devices>
